@@ -1,0 +1,9 @@
+vpc_id: vpc-7b507a1f
+subnet_id: subnet-978939cf
+ec2_keypair: judicial
+instance_count: 2
+db_subnets:
+  - subnet-d681d8b2
+  - subnet-876819f1
+db_availability_zone: us-west-2a
+db_username: todobackend
